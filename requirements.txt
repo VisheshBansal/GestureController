@@ -1,0 +1,9 @@
+PyQt5
+pyautogui
+imutils
+mediapipe
+pyautogui
+opencv-python
+mouse
+numpy
+pandas
